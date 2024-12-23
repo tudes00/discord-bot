@@ -9,5 +9,7 @@ Modification super simple, rajouter des commandes dans /Commandes et des évents
 Mettez votre token dans config.js et lancer cette commande dans le terminal.
 
 ```
+npm install
+
 node main.js
 ```
